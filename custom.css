@@ -1,3 +1,6 @@
+.photo{
+    position: relative;
+}
 .image {
     opacity: 1;
     display: block;
@@ -7,11 +10,11 @@
     backface-visibility: hidden;
     background-color: #ededed !important;
 }
-.photo .middle {
+.middle {
     transition: .5s ease;
     opacity: 0;
     position: absolute;
-    top: 25%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
