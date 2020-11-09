@@ -77,3 +77,7 @@
         -webkit-filter:  brightness(40%) grayscale(30%) blur(2.5px);
 	}
 }
+
+.card {
+    box-shadow: 0px 5px 10px rgba(30, 145, 214, 0.25);
+}
