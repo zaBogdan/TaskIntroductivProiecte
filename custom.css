@@ -81,3 +81,8 @@
 .card {
     box-shadow: 0px 5px 10px rgba(30, 145, 214, 0.25);
 }
+.click-me{
+    border-color: #ededed;
+    border-width: 3px;
+    color: #fff;
+}
